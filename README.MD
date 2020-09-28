@@ -1,4 +1,4 @@
-Se puede abrir la vista previa de Markdown en VSCode. [v0.4.1 Versión final]
+Se puede abrir la vista previa de Markdown en VSCode. [v0.1 Versión final]
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
